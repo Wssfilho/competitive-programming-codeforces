@@ -103,7 +103,6 @@ Este é um repositório pessoal para fins de estudo e prática. Sugestões de me
 ## 📞 Contato
 
 - **GitHub:** [Wssfilho](https://github.com/Wssfilho)
-- **Codeforces:** [Seu handle no Codeforces]
 
 ---
 
