@@ -47,16 +47,6 @@ Ou no Windows:
 problema.exe
 ```
 
-## 🏆 Problemas Resolvidos
-
-| Problema | Dificuldade |
-|----------|-------------|
-| 158A | - | ✅ | 
-| 231A | - | ✅ | 
-| 236A | - | ✅ | 
-| 405A | - | ✅ | 
-| 540A | - | ✅ | 
-| 617A | - | ✅ | 
 
 ## 🛠️ Tecnologias Utilizadas
 
