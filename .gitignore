@@ -1,17 +1,21 @@
-# Ignorar executáveis gerados
+# Ignora arquivos binários gerados pelo GCC
 *.exe
-*.out
-*.obj
 *.o
+*.obj
 
-# Ignorar diretório de saída
-output/
-
-# Ignorar arquivos temporários
+# Ignora arquivos de depuração
 *.log
+*.out
 *.tmp
-*.bak
 
-# Ignorar arquivos de configuração do editor
+# Ignora arquivos do VS Code
 .vscode/
-*.code-workspace
+.output/
+
+# Ignora arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Ignora arquivos temporários
+*.swp
+*.swo
