@@ -19,3 +19,6 @@ Thumbs.db
 # Ignora arquivos temporários
 *.swp
 *.swo
+
+# Ignora o próprio arquivo .gitignore
+.gitignore
