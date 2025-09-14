@@ -1,0 +1,56 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.output/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+*.workspace
+
+# Dev-C++
+*.dev
+*.win
+
+# CLion
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test files and inputs
+input.txt
+output.txt
+test*.txt
+*.in
+*.ans
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
