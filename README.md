@@ -49,14 +49,14 @@ problema.exe
 
 ## 🏆 Problemas Resolvidos
 
-| Problema | Dificuldade | Status | Link |
-|----------|-------------|---------|------|
-| 158A | - | ✅ | [Codeforces 158A](https://codeforces.com/problem/158/A) |
-| 231A | - | ✅ | [Codeforces 231A](https://codeforces.com/problem/231/A) |
-| 236A | - | ✅ | [Codeforces 236A](https://codeforces.com/problem/236/A) |
-| 405A | - | ✅ | [Codeforces 405A](https://codeforces.com/problem/405/A) |
-| 540A | - | ✅ | [Codeforces 540A](https://codeforces.com/problem/540/A) |
-| 617A | - | ✅ | [Codeforces 617A](https://codeforces.com/problem/617/A) |
+| Problema | Dificuldade |
+|----------|-------------|
+| 158A | - | ✅ | 
+| 231A | - | ✅ | 
+| 236A | - | ✅ | 
+| 405A | - | ✅ | 
+| 540A | - | ✅ | 
+| 617A | - | ✅ | 
 
 ## 🛠️ Tecnologias Utilizadas
 
