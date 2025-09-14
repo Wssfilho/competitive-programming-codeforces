@@ -1,0 +1,17 @@
+# Ignorar executáveis gerados
+*.exe
+*.out
+*.obj
+*.o
+
+# Ignorar diretório de saída
+output/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+*.code-workspace
