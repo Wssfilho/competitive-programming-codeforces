@@ -6,7 +6,7 @@ int main()
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    int n, count = 0, mais = 0, menos = 0;
+    int n, count = 0;
     cin >> n;
     while (n--)
     {
@@ -20,7 +20,6 @@ int main()
                 count++;
                 break;
             case '-':
-            
                 count--;
                 break;
             case 'X':
@@ -30,7 +29,6 @@ int main()
             }
             break;
         }
-            
     }
     cout << count;
 }
