@@ -7,10 +7,15 @@ int main() {
     
     int t;
     cin >> t;
-    
     while(t--) {
         int a, b, c, d;
         cin >> a >> b >> c >> d;
-        cout << (a < b) + (a < c) + (a < d) << '\n';
+        
+        int k = 0;
+        k += (a < b);
+        k += (a < c);
+        k += (a < d);
+        
+        cout << k << '\n';
     }
 }
