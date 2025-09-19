@@ -10,7 +10,6 @@ int main() {
     while(t--) {
         int a, b, c, d;
         cin >> a >> b >> c >> d;
-        
         int k = 0;
         k += (a < b);
         k += (a < c);
